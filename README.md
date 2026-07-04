@@ -7,6 +7,7 @@ The application is hosted online and can be accessed here:
 https://huggingface.co/spaces/kapidhwaj/text-summarizer-app
 
 ## Project Structure
+* text_summarizer.ipynb: Jupyter Notebook containing the full training pipeline, data preprocessing, and model fine-tuning process.
 * app.py: FastAPI application server and model inference pipeline.
 * index.html: Stylized user interface template.
 * requirements.txt: Python dependency definitions.
