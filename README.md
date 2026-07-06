@@ -18,13 +18,13 @@ https://huggingface.co/spaces/kapidhwaj/text-summarizer-app
 ## Local Installation
 
 1. Clone the repository:
-   git clone https://github.com/kapidhwaj/YOUR_REPOSITORY_NAME.git
+   git clone https://github.com/kapidhwaj/text-summarizer-app.git
    cd text-summarizer-app
 
-2. Install dependencies:
+3. Install dependencies:
    pip install -r requirements.txt
 
-3. Launch the local server:
+4. Launch the local server:
    uvicorn app:app --reload
 
 The application will be accessible locally at http://127.0.0.1:8000.
